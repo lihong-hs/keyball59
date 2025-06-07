@@ -1,5 +1,7 @@
 # MCK Trackball 59
 
+## Please don't buy this keyboard. Even with this firmware it's very much not worth it, and both the manufacturer and the AliExpress seller I got it from are dishonest.
+
 This keyboard is a [Keyball 61](https://shirogane-lab.net/items/64b8ed191435c1002bc4cd30) lookalike from AliExpress. Despite the looks, internally it is heavily "inspired" by Slinky-based [Charybdis](https://bastardkb.com).
 
 Despite this "inspiration", the guy making these keyboards is reluctant to comply with QMK's and Vial's licence (GPL 2) and make the firmware source code available.
