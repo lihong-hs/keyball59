@@ -1,12 +1,10 @@
 # MCK Trackball 59
 
-## Please don't buy this keyboard. Even with this firmware it's very much not worth it, and both the manufacturer and the AliExpress seller I got it from are dishonest.
+This keyboard is a [Keyball 61](https://shirogane-lab.net/items/64b8ed191435c1002bc4cd30) lookalike from AliExpress. Despite the looks, internally it is heavily inspired by Slinky-based [Charybdis](https://bastardkb.com).
 
-This keyboard is a [Keyball 61](https://shirogane-lab.net/items/64b8ed191435c1002bc4cd30) lookalike from AliExpress. Despite the looks, internally it is heavily "inspired" by Slinky-based [Charybdis](https://bastardkb.com).
+Originally this repo was created because the manufacturer wouldn't share the source code for their buggy firmware in violation of GPL 2.0. It would seem they are now willing to comply, and maybe even maintain the firmware, which can be found at https://github.com/Aldexuan/firmware
 
-Despite this "inspiration", the guy making these keyboards is reluctant to comply with QMK's and Vial's licence (GPL 2) and make the firmware source code available.
-
-No shits given, it's a buggy mess anyway. Here I implement a much better firmware for this keyboard, complete with everything I personally want from a keyboard.
+It has features that this version does not, so have a look.
 
 This should go without saying, but **Feel free to fork and make your own version!**
 
